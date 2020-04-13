@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Name: PAB
+Age: 30
+=======
+Name: TBD
+Age: 29
+Favorite Color : Black
+
+>>>>>>> 09e1c6d2f0ae5a420d5f3ee197346932cfaa31b6
